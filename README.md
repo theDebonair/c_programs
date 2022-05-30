@@ -1,2 +1,2 @@
 # C Programs
-###### This repo contains all the C programs developed by me.
+###### This repo contains the C programs.
